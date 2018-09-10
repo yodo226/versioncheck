@@ -1,0 +1,2 @@
+# versioncheck
+check version
