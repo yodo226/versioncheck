@@ -1,2 +1,1 @@
-# versioncheck
-check version
+1.0.0
